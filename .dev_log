@@ -42,3 +42,4 @@ fix: correct cpu name parsing on older Apple Silicon devices
 perf: lazy initialize sysinfo library to speed up startup
 feat: add custom color schemes support structure
 docs: document Apple Silicon Unified Memory architecture in docs
+refactor: implement next and prev methods on Component enum
