@@ -37,3 +37,4 @@ feat: add battery level gauge for laptops
 fix: prevent battery level gauge overflow
 refactor: rename variables for clarity in ui.rs
 style: change selected state border to green
+feat: add thermal throttling warning notification
