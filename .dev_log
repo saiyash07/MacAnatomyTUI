@@ -57,3 +57,4 @@ feat: add CPU usage history sparkline
 fix: format disk sizes to GB instead of bytes
 refactor: unify error type definitions across modules
 style: adjust margins to prevent layout clipping
+feat: add support for mouse hover selection highlight
