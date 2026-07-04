@@ -48,3 +48,4 @@ feat: add GPU core count rendering support
 style: bold the headers of each block
 fix: correct Secure Enclave failure symptoms
 feat: add CLI argument parser to configure tick rate
+fix: validate tick rate argument range
