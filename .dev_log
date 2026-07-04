@@ -70,3 +70,4 @@ fix: correct M3 performance core count lookup
 docs: append FAQ section in README
 refactor: convert component array to static slice
 fix: handle terminal size shrinking during active session
+style: highlight active analogy with italicized white text
