@@ -58,3 +58,4 @@ fix: format disk sizes to GB instead of bytes
 refactor: unify error type definitions across modules
 style: adjust margins to prevent layout clipping
 feat: add support for mouse hover selection highlight
+fix: correct mouse click coordinates calculation
