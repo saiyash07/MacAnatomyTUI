@@ -56,3 +56,4 @@ fix: fix macOS system disk path resolver
 feat: add CPU usage history sparkline
 fix: format disk sizes to GB instead of bytes
 refactor: unify error type definitions across modules
+style: adjust margins to prevent layout clipping
