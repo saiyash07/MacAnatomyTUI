@@ -24,3 +24,4 @@ fix: correct SSD controller error symptom details
 docs: update keybinds description in TUI footer
 test: add unit test framework setup
 chore: update dependencies versions in Cargo.toml
+style: add subtle border styling to SoC blocks
