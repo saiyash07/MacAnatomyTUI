@@ -40,3 +40,4 @@ style: change selected state border to green
 feat: add thermal throttling warning notification
 fix: correct cpu name parsing on older Apple Silicon devices
 perf: lazy initialize sysinfo library to speed up startup
+feat: add custom color schemes support structure
