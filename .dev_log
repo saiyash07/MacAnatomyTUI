@@ -54,3 +54,4 @@ docs: clarify keyboard shortcuts in TUI instruction footer
 refactor: remove redundant sysinfo traits import
 fix: fix macOS system disk path resolver
 feat: add CPU usage history sparkline
+fix: format disk sizes to GB instead of bytes
