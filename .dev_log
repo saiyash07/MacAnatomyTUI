@@ -6,3 +6,4 @@ refactor: extract layout constraint definitions to constants
 style: change active component highlight color to green
 docs: add setup guide to README
 perf: optimize system polling tick rate to 500ms
+fix: handle terminal size constraints gracefully
