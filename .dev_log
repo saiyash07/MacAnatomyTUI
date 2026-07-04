@@ -27,3 +27,4 @@ chore: update dependencies versions in Cargo.toml
 style: add subtle border styling to SoC blocks
 feat: add RAM swapping stats tracker
 feat: add OS version output line to main screen
+fix: prevent text overflow in lexicon block
