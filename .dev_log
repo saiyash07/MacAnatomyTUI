@@ -47,3 +47,4 @@ fix: resolve memory leaks during rendering loop
 feat: add GPU core count rendering support
 style: bold the headers of each block
 fix: correct Secure Enclave failure symptoms
+feat: add CLI argument parser to configure tick rate
