@@ -69,3 +69,4 @@ feat: add support for M3 Max chip topology details
 fix: correct M3 performance core count lookup
 docs: append FAQ section in README
 refactor: convert component array to static slice
+fix: handle terminal size shrinking during active session
