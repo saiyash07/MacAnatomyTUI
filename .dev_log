@@ -50,3 +50,4 @@ fix: correct Secure Enclave failure symptoms
 feat: add CLI argument parser to configure tick rate
 fix: validate tick rate argument range
 style: display active selection with Cyan text in lexicon title
+docs: clarify keyboard shortcuts in TUI instruction footer
