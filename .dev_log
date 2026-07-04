@@ -68,3 +68,4 @@ style: add separator line between metrics
 feat: add support for M3 Max chip topology details
 fix: correct M3 performance core count lookup
 docs: append FAQ section in README
+refactor: convert component array to static slice
