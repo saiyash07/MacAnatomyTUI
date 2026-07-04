@@ -28,3 +28,4 @@ style: add subtle border styling to SoC blocks
 feat: add RAM swapping stats tracker
 feat: add OS version output line to main screen
 fix: prevent text overflow in lexicon block
+refactor: decouple drawing functions from stats updater
