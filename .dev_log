@@ -14,3 +14,4 @@ fix: restore terminal state on panics
 style: polish ASCII art header in README
 feat: add Secure Enclave analogy and details
 feat: add Neural Engine performance details
+fix: resolve memory allocation division error
