@@ -8,3 +8,4 @@ docs: add setup guide to README
 perf: optimize system polling tick rate to 500ms
 fix: handle terminal size constraints gracefully
 feat: add SSD telemetry support
+feat: display model details in system metrics panel
