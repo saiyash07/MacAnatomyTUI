@@ -35,3 +35,4 @@ style: change gauge background colors to DarkGray
 docs: add developer guide in README
 feat: add battery level gauge for laptops
 fix: prevent battery level gauge overflow
+refactor: rename variables for clarity in ui.rs
