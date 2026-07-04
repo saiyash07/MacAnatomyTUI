@@ -3,3 +3,4 @@ feat: add CPU efficiency core support
 feat: add CPU performance core indicators
 fix: fix compiler warning about unused imports in system.rs
 refactor: extract layout constraint definitions to constants
+style: change active component highlight color to green
