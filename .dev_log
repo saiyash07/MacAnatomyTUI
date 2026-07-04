@@ -67,3 +67,4 @@ refactor: optimize rendering loop refresh triggers
 style: add separator line between metrics
 feat: add support for M3 Max chip topology details
 fix: correct M3 performance core count lookup
+docs: append FAQ section in README
