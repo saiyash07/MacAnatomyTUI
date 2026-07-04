@@ -61,3 +61,4 @@ feat: add support for mouse hover selection highlight
 fix: correct mouse click coordinates calculation
 perf: refresh only active telemetry variables to reduce resource usage
 docs: update troubleshooting guide in README
+feat: display system boot time in main metrics panel
