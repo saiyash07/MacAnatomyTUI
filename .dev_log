@@ -21,3 +21,4 @@ feat: add custom memory warning thresholds
 feat: support window resizing events dynamically
 refactor: simplify frame drawing logic
 fix: correct SSD controller error symptom details
+docs: update keybinds description in TUI footer
