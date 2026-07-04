@@ -31,3 +31,4 @@ fix: prevent text overflow in lexicon block
 refactor: decouple drawing functions from stats updater
 feat: support Escape key to exit TUI
 fix: handle case when sysinfo disk list is empty
+style: change gauge background colors to DarkGray
