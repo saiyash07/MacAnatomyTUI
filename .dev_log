@@ -59,3 +59,4 @@ refactor: unify error type definitions across modules
 style: adjust margins to prevent layout clipping
 feat: add support for mouse hover selection highlight
 fix: correct mouse click coordinates calculation
+perf: refresh only active telemetry variables to reduce resource usage
