@@ -45,3 +45,4 @@ docs: document Apple Silicon Unified Memory architecture in docs
 refactor: implement next and prev methods on Component enum
 fix: resolve memory leaks during rendering loop
 feat: add GPU core count rendering support
+style: bold the headers of each block
