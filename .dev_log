@@ -25,3 +25,4 @@ docs: update keybinds description in TUI footer
 test: add unit test framework setup
 chore: update dependencies versions in Cargo.toml
 style: add subtle border styling to SoC blocks
+feat: add RAM swapping stats tracker
