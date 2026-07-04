@@ -33,3 +33,4 @@ feat: support Escape key to exit TUI
 fix: handle case when sysinfo disk list is empty
 style: change gauge background colors to DarkGray
 docs: add developer guide in README
+feat: add battery level gauge for laptops
