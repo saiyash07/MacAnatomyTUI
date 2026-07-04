@@ -60,3 +60,4 @@ style: adjust margins to prevent layout clipping
 feat: add support for mouse hover selection highlight
 fix: correct mouse click coordinates calculation
 perf: refresh only active telemetry variables to reduce resource usage
+docs: update troubleshooting guide in README
