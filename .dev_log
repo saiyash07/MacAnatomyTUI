@@ -20,3 +20,4 @@ style: align gauges to Center in panel
 feat: add custom memory warning thresholds
 feat: support window resizing events dynamically
 refactor: simplify frame drawing logic
+fix: correct SSD controller error symptom details
